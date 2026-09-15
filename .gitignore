@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/raw/
+data/retail_demand.db
+.env
+.DS_Store
+
+data/processed/retail_clean.csv
